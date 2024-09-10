@@ -1,7 +1,7 @@
 # Jolie Terry
 
-We are in class.
+## TERRYJ24
 
-Make some changes.
+We are in the class.
 
-Set Code as the editor.
+More stuff.
